@@ -24,7 +24,7 @@ function App(){
      <ul>
       <li>{ar_obj}</li>
      </ul>
-   
+   <Filter/>
     </>
   )
 }
